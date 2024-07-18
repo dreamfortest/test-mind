@@ -44,6 +44,9 @@ Insights on AI testing
 - 渗透学习 [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 - 
 #### 机器学习库
-- ⭐⭐⭐⭐⭐从头学习深度学习系列:[动手学深度学习地](https://zh-v2.d2l.ai/)
-- ⭐⭐⭐⭐ PyTroch [Note](https://datawhalechina.github.io/thorough-pytorch/%E7%AC%AC%E4%B8%80%E7%AB%A0/1.3%20PyTorch%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90.html#id1)
-- ⭐⭐⭐⭐⭐fastai [fastai V3公开笔记](https://github.com/hiromis/notes)
+⭐⭐⭐⭐⭐
+- 从头学习深度学习系列:[动手学深度学习地](https://zh-v2.d2l.ai/)
+⭐⭐⭐⭐
+- PyTroch [Note](https://datawhalechina.github.io/thorough-pytorch/%E7%AC%AC%E4%B8%80%E7%AB%A0/1.3%20PyTorch%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90.html#id1)
+⭐⭐⭐⭐⭐
+- fastai [fastai V3公开笔记](https://github.com/hiromis/notes)
